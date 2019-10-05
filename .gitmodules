@@ -1,0 +1,6 @@
+[submodule "hermit-functions"]
+	path = hermit-functions
+	url = https://github.com/ButterHub/hermit-functions.git
+[submodule "hermit-react-mui"]
+	path = hermit-react-mui
+	url = https://github.com/ButterHub/hermit-react-mui.git
